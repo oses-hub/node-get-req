@@ -1,0 +1,22 @@
+{
+    "name": "node-get-req",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "start": "node script.js"
+    },
+    "keywords": [
+        "__test",
+        "Bypass",
+        "Bypass __test",
+        "Cookie",
+        "Cookie __test",
+        "Free Host",
+        "nginx host"
+
+    ],
+    "author": "SAYED SAEED",
+    "homepage": "https://github.com/oses-hub/npm-twitter",
+    "license": "ISC"
+}
